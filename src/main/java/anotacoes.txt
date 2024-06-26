@@ -1,0 +1,4 @@
+Acessar o H2:
+
+http://localhost:8080/h2-console
+Use o seguinte URL de conexão: jdbc:h2:mem:testdb
